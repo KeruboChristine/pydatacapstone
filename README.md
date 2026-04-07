@@ -20,9 +20,8 @@ Research Questions
 This project seeks to answer the following:
 
 1. What is the trend of youth unemployment in Kenya over the past decades?
-2. How does youth unemployment vary across gender and regions in Kenya?
-3. What are the possible economic, educational, and social factors influencing youth unemployment?
-4. Can we identify correlations between youth unemployment and other socio-economic indicators such as GDP, education, or labor force participation?
+2. What are the possible economic, educational, and social factors influencing youth unemployment?
+3. Can we identify correlations between youth unemployment and other socio-economic indicators such as GDP, education, or labor force participation?
 
 World Bank Kenya Youth Unemployment Data
 Time Frame
