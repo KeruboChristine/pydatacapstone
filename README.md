@@ -20,7 +20,7 @@ Research Questions
 This project seeks to answer the following:
 
 1. What is the trend of youth unemployment in Kenya over the past decades?
-2. What are the possible economic, educational, and social factors influencing youth unemployment?
+2. What are the possible economic, educational, and social factors influencing youth unemployment
 3. Can we identify correlations between youth unemployment and other socio-economic indicators such as GDP, education, or labor force participation?
 
 World Bank Kenya Youth Unemployment Data
@@ -49,7 +49,7 @@ Key Features
 
 * Python 3.x
 * Pandas, NumPy (data manipulation)
-* Matplotlib, Seaborn, Plotly (visualization)
+* Matplotlib, Seaborn, Plotly (visualization) and Geopandas
 * Jupyter Notebook (analysis)
 
 
