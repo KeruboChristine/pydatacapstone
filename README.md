@@ -52,4 +52,6 @@ Key Features
 * Matplotlib, Seaborn, Plotly (visualization) and Geopandas
 * Jupyter Notebook (analysis)
 
-
+  
+LINK FOR MY PRESENTATION
+https://viz-wisdom-quest.lovable.app/
